@@ -4,3 +4,9 @@ The shield PCB design is also included with this repo.<br>
 Battery Voltage ADC - A0 pin - vbatt_pin<br>
 Rectifier Voltage ADC - A1 pin - vrect_pin<br>
 Earth Center Voltage ADC - A2 pin - vearth_pin<br>
+```python
+import this
+def my_function():
+print("Hello, World!")
+return 0
+```
